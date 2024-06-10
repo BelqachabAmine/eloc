@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-light {
+    background-color: #ffffff !important;
+}
+
+.fa , .fas{
+    font-family: var(--fa-style-family, "Font Awesome 6 Free") !important;
+}

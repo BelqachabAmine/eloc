@@ -1,0 +1,133 @@
+.immg{
+    background: url("../../../assets/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;   
+    font-family: "Roboto";
+    font-weight: 100;
+    font-style: normal;
+    overflow:hidden;
+    position: relative;
+    background-position: 50% 50%;
+}
+
+.sizeimg{
+    height: 780px; 
+}
+@media (max-width: 720px) {
+    .sizeimg{
+        height: 500px; 
+    }
+    .svgupimag{
+        background-size: 60% !important;
+        background-position: 3% 101% !important;
+    }
+    .imgsize{
+        width: 80%;
+        margin-left: 19%;
+    }
+
+    .imgsize2{
+        width: 80%;    
+    }
+  }
+
+.svgupimag{
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: 20% 106%;
+    background-image: url(../../../assets/watermark.svg);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.main-title {
+    text-transform: uppercase;
+    color: #000;
+    text-align: center;
+    padding-top: 20px;
+    letter-spacing: 0em;
+    margin-bottom: 10px;
+    z-index: 1000;
+    position: relative;
+    white-space: nowrap;
+    font-size: 7.3vw;
+    font-weight: bold;
+    display :flex;
+	justify-content: center;
+	align-items :center;
+	flex-direction :column;
+    margin-bottom: -6.5%;
+}
+
+@media (max-width: 1700px) {
+    .main-title{
+        margin-bottom: -6%;
+    }
+}
+
+@media (max-width: 1480px) {
+    .main-title{
+        margin-bottom: -5.5%;
+    }
+}
+
+@media (max-width: 1330px) {
+    .main-title{
+        margin-bottom: -5%;
+    }
+}
+
+@media (max-width: 970px) {
+    .main-title{
+        margin-bottom: -4.5%;
+    }
+}
+
+.contentapp{
+    text-align: center;
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    bottom: 64px;
+    left: 0;
+    right: 0;
+}
+
+.obacityclass{
+    background-color: #000;
+}
+
+.contentapp p{
+    font-weight: 700;
+    font-size: 2.5vw;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.contentapp a{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+//* Apply perspective to the parent container */
+.contentapp {
+    perspective: 1000px;
+  }
+  
+  .hover03 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .4s ease-in-out;
+	transition: .4s ease-in-out;
+}
+.hover03 figure:hover img {
+	-webkit-transform: scale(.9);
+	transform: scale(.9);
+}
+
+  

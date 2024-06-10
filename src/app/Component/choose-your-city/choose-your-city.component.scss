@@ -1,0 +1,58 @@
+h2{
+    font-size: 62px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 64px;
+    letter-spacing: -.03em;
+}
+
+@media (max-width: 768px) {
+    h2{
+        font-size: 37px;
+        text-align: center;
+    }
+    .block3_city_container{
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.fourville{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+
+.growUp:hover{
+    animation-duration: .4s;
+    -webkit-animation-duration: .4s;
+    transition-duration: .4s;
+    opacity: 1!important;
+    transform: translate(0,0) scale(1)!important;
+  
+}
+
+.block3_city_container {
+    transform: translate(0, 10px) scale(.9);
+    transition-delay: .4s;
+    transition: opacity .35s, transform .35s cubic-bezier(.68,-.55,.265,1.55);
+    width: 320px;
+}
+
+.save-city{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+h4{
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 32px;
+    letter-spacing: -.03em;
+    margin-top: 10px;
+}

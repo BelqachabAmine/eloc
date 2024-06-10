@@ -1,0 +1,125 @@
+.bestwayCss{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -.03em;
+    text-align: left;
+}
+
+.bestwayCss strong {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -.02em;
+    text-align: left;
+}
+
+.content-img {
+    position: relative;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.listville {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.listville li {
+    font-size: 82px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100px;
+    letter-spacing: -.03em;
+    text-align: left;
+    color: #000;
+}
+@media (max-width: 990px){
+    .image-app{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 230px;
+        z-index: 100;
+        position: relative;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    .part3icon div p{
+        text-align: center;
+    }
+
+    .part3icon div img{
+        float: left;
+    }
+}
+
+@media (max-width: 720px){
+    .listville li {
+        font-size: 50px;
+    }
+    .content-img{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+   
+}
+
+@media (max-width: 768px) {
+    .image-app{
+        width: 200px !important;
+    }
+}
+
+.styleParagraph {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -.03em;
+    text-align: left;
+}
+
+.part-img {
+    text-align: right;
+    position: relative;
+}
+
+.imgprt{
+    background-image: url(../../../assets/lightning.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.image-app{
+    max-width: 333px;
+    width: 100%;
+}
+
+.part3icon{
+    margin-top: 30px;
+}
+
+.part3icon div p{
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -.02em;
+}
+
+.part3icon div .hoverni {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.part3icon div:hover .hoverni  {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}

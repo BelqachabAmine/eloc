@@ -1,0 +1,59 @@
+.part-img img {
+    width: 80%;
+    margin-left: auto;
+    display: block;
+}
+
+.part-text .title {
+    margin-bottom: 30px;
+}
+
+.part-text p {
+    font-family: "Space Grotesk";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -.02em;
+    text-align: left;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.title{
+    font-size: 4.5vw;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 64px;
+    letter-spacing: -.03em;
+}
+
+@media (max-width: 776px){
+    .title{
+        text-align: center;
+    }
+    .part-text .title{
+        margin-bottom: 8px !important;
+    }
+    .part-text p{
+        font-size: 20px;
+    }
+    .part-img img {
+        width: 38%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    figure{
+        text-align: center;
+    }
+}
+
+.hover03 div a figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .4s ease-in-out;
+	transition: .4s ease-in-out;
+}
+.hover03 div a figure:hover img {
+	-webkit-transform: scale(.9);
+	transform: scale(.9);
+}
