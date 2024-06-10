@@ -40,9 +40,10 @@ function run() {
   });
 }
 
-declare const __non_webpack_require__: NodeRequire;
-if (require.main === __non_webpack_require__.main) {
-  run();
-}
+//declare const __non_webpack_require__: NodeRequire;
+//if (require.main === __non_webpack_require__.main) {
+//  run();
+//}
 
+run();
 export * from './src/main.server';
