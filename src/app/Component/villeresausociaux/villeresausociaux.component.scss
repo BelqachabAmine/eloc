@@ -1,0 +1,38 @@
+.footerVilRS{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 57px;
+    padding-bottom: 57px;
+} 
+
+.contentfoter{
+    background-color: #d1d7f3;
+    width: 100%;
+}
+
+.citys{
+    color: #000;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+@media (max-width: 776px){
+    .footer_logo_img{
+        width: 15% !important;
+        margin-bottom: 15px;
+    }
+    .MrgnBtm{
+        margin-bottom: 15px;
+    }
+    .RSfoot{
+        justify-content: center !important;
+    }
+}
+
+.RSfoot{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+

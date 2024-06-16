@@ -15,6 +15,8 @@ import { SectionDownlondAppComponent } from './Component/section-downlond-app/se
 import { SectioncityandteleComponent } from './Component/sectioncityandtele/sectioncityandtele.component';
 import { ChooseYourCityComponent } from './Component/choose-your-city/choose-your-city.component';
 import { SectioDwoneldAppSecondComponent } from './Component/sectio-dwoneld-app-second/sectio-dwoneld-app-second.component';
+import { VilleresausociauxComponent } from './Component/villeresausociaux/villeresausociaux.component';
+import { FooterSectionComponent } from './Component/footer-section/footer-section.component';
 
 export function httpLoaderFactory (http:HttpClient){
   return new TranslateHttpLoader(http);
@@ -28,7 +30,9 @@ export function httpLoaderFactory (http:HttpClient){
     SectionDownlondAppComponent,
     SectioncityandteleComponent,
     ChooseYourCityComponent,
-    SectioDwoneldAppSecondComponent
+    SectioDwoneldAppSecondComponent,
+    VilleresausociauxComponent,
+    FooterSectionComponent
   ],
   imports: [
     BrowserModule,

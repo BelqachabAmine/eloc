@@ -21,3 +21,31 @@ app-choose-your-city{
   display: block;
   margin-bottom: 6%;
 }
+
+app-sectio-dwoneld-app-second{
+  display: block;
+}
+
+app-villeresausociaux{
+  margin-top: -2.3%;
+  position: relative;
+  display: block;
+}
+
+app-footer-section{
+  padding-top: 6%;
+  display: block;
+  background-color: black;
+}
+
+@media (max-width: 992px) {
+  app-villeresausociaux{
+    margin-top: 0%;
+  }
+}
+
+@media (max-width: 767px) {
+  app-villeresausociaux{
+    margin-top: -4%;
+  }
+}
