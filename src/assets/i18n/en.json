@@ -1,6 +1,6 @@
 {
     "Ville":"City",
-    "Commcamarche":"How it works ?",
+    "Commcamarche":"How it works",
     "Tele app":"Download the App",
     "parta&elec" : "SHARED & ELECTRIC",
     "Scootersenlibreservice":"Shared electric mopeds",
@@ -30,6 +30,10 @@
     "conditiongener":"Terms of Service",
     "politique":"Privacy Policy",
     "legal":"Legal Mentions",
-    "cookies":"Cookies Policy"
+    "cookies":"Cookies Policy",
+    "subtitlecomcamarche":"Your adventure begins with the E-LOC app",
+    "describtion":"You can download the E-LOC app in the Apple App Store or Google Play Store. Once you have downloaded the app and created an account, you can find all available E-LOC scooter in the app. Find a scooter and unlock it with the app if you are standing next to it. Enjoy your ride.",
+    "drivingwitheloc":"Driving with E-LOC is",
+    "easy":"easy and fun"
 
 }
