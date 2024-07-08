@@ -56,6 +56,16 @@
 .sectionhowitwork{
     display: block;
 }
+
+h2{
+    font-family: Urban Grotesk ReBo, sans-serif;
+}
+
+.content{
+    font-family: Urban Grotesk MeBl, sans-serif;
+}
+
+
 /////////////////////////////// SECOND SECTION
 
 .text-primary {
@@ -84,4 +94,149 @@ figure.object-contain img {
 
 .has-shadow{
     box-shadow: 0 11px 27px 7px hsla(0, 0%, 6%, .07)
+}
+
+
+/////////////////////////////// third SECTION
+
+.standaard{
+    font-family: Urban Grotesk MeBl, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.75rem;
+    -webkit-font-smoothing: antialiased;
+    padding-top: 5%;
+}
+
+.o-cards-vertical{
+    display: block;
+}
+
+.section-box2 {
+    background-color: #edceab;
+    padding: 6% 0%;
+}
+
+.o-cards-vertical .section-box2 {
+    overflow: visible !important;
+}
+
+.is_fullwidth .section-box2, div:not(.is_fullwidth) .section-box2, header:not(.is_fullwidth) .section-box2 {
+    margin-top: -1rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.sticky-box {
+    position: sticky !important;
+}
+
+h2{
+    font-size: 2.4rem !important;
+    font-weight: 700;
+    line-height: 1.25;
+    font-family: Urban Grotesk ReBo, sans-serif;
+}
+
+.card .card-header figure.h-160 {
+    height: 160px;
+}
+
+figure.object-cover {
+    position: relative;
+    height: 100%;
+    margin-bottom: 0;
+}
+figure {
+    margin: 0 0 1rem;
+    display: block;
+}
+
+figure.object-cover img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+@media (min-width: 768px) {
+    .col-md-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 58.33333%;
+        flex: 0 0 58.33333%;
+        max-width: 58.33333%;
+    }
+}
+
+.card {
+    position: relative;
+    border: none;
+    border-radius: 10px;
+    background: #fff;
+    -webkit-box-shadow: 0 11px 27px 7px hsla(0, 0%, 6%, .07);
+    box-shadow: 0 11px 27px 7px hsla(0, 0%, 6%, .07);
+}
+
+.headcardtitle{
+    font-weight: 700 !important;
+}
+
+@media (max-width: 992px){
+    .offset-md-6 {
+        margin-left: 0% !important;
+    }
+    .card{
+        margin-bottom: 6%;
+    }
+}
+
+@media (max-width: 767px){
+    figure{
+        text-align: center;
+        margin-top: 2%;
+    }
+    .headhowitwork{
+        margin-top: 30%;
+    }
+}
+
+.custombtn{
+    color: #fff;
+background-color: #c9520a !important;
+border-color: #c9520a;
+height: 3.375rem;
+    padding: 2px 1.25rem 0;
+    border-radius: 27px;
+    -webkit-box-shadow: 0 8px 7px -5px rgba(0, 0, 0, .2);
+    box-shadow: 0 8px 7px -5px rgba(0, 0, 0, .2);
+    font-family: Urban Grotesk LiSe, sans-serif;
+    font-weight: 700;
+    margin-top: 3%;
+}
+
+///////////// fourth part
+
+.o-tabs-and-cards{
+    display: block;
+}
+
+.fourthpart{
+    padding-top: 1rem;
+    padding-bottom: 6rem;
+}
+
+.textfourtpart{
+    font-family: Urban Grotesk MeBl, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.75rem;
+    -webkit-font-smoothing: antialiased;
+}
+
+.o-tabs-and-cards .icon-row {
+    margin-top: 2rem;
+    margin-bottom: 6rem;
 }

@@ -194,3 +194,25 @@ nav input{
   font-weight: bold !important;
   color: #000000 !important;
 }
+
+.fa-bars,.fa-times:before{
+  color: #000000 !important;
+
+}
+
+.mybtncustom{
+  height: 0px;
+  margin-bottom: 5%;
+}
+
+@media (max-width: 900px) {
+  .logooappeloc{
+    width: 40% !important;
+  }
+}
+
+@media (max-width: 550px) {
+  .logooappeloc{
+    width: 60% !important;
+  }
+}

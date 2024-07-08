@@ -18,5 +18,10 @@
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
 <!-- * * * * * * * * * * End of Placeholder * * * * * * * * * * * -->
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<app-customloader *ngIf="isLoading$ | async"></app-customloader>
 
-<router-outlet></router-outlet>
+
+
+<div *ngIf="!(isLoading$ | async)">
+    <router-outlet></router-outlet>
+  </div>

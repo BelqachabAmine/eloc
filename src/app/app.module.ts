@@ -19,6 +19,7 @@ import { VilleresausociauxComponent } from './Component/villeresausociaux/viller
 import { FooterSectionComponent } from './Component/footer-section/footer-section.component';
 import { HowitworkComponent } from './Component/how It Work/howitwork/howitwork.component';
 import { HowitworkfisrtpartComponent } from './Component/howitworkfisrtpart/howitworkfisrtpart.component';
+import { CustomloaderComponent } from './Component/customloader/customloader.component';
 
 export function httpLoaderFactory (http:HttpClient){
   return new TranslateHttpLoader(http);
@@ -36,7 +37,8 @@ export function httpLoaderFactory (http:HttpClient){
     VilleresausociauxComponent,
     FooterSectionComponent,
     HowitworkComponent,
-    HowitworkfisrtpartComponent
+    HowitworkfisrtpartComponent,
+    CustomloaderComponent
   ],
   imports: [
     BrowserModule,

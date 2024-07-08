@@ -1,7 +1,10 @@
-<app-navbar></app-navbar>
-<app-section-downlond-app></app-section-downlond-app>
-<app-sectioncityandtele></app-sectioncityandtele>
-<app-choose-your-city></app-choose-your-city>
-<app-sectio-dwoneld-app-second></app-sectio-dwoneld-app-second>
-<app-villeresausociaux></app-villeresausociaux>
-<app-footer-section></app-footer-section>
+<app-customloader *ngIf="isLoading"></app-customloader>
+<div *ngIf="!isLoading">
+    <app-navbar></app-navbar>
+    <app-section-downlond-app></app-section-downlond-app>
+    <app-sectioncityandtele></app-sectioncityandtele>
+    <app-choose-your-city></app-choose-your-city>
+    <app-sectio-dwoneld-app-second></app-sectio-dwoneld-app-second>
+    <app-villeresausociaux></app-villeresausociaux>
+    <app-footer-section></app-footer-section>
+</div>

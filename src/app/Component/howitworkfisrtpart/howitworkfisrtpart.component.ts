@@ -10,6 +10,8 @@ export class HowitworkfisrtpartComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-  }
 
+    
+
+  }
 }
