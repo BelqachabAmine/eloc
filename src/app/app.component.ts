@@ -21,6 +21,6 @@ export class AppComponent {
     this.loaderService.show();
     setTimeout(() => {
       this.loaderService.hide();
-    }, 3000); // Change this to your desired loading duration
+    }, 2000); // Change this to your desired loading duration
   }
 }

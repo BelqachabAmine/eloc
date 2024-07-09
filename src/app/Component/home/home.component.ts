@@ -14,7 +14,7 @@ export class HomeComponent implements OnInit {
     // Simulate a delay to show the loader
     setTimeout(() => {
       this.isLoading = false;
-    }, 3000); // Change this to your desired loading duration
+    }, 2000); // Change this to your desired loading duration
   }
 
 }
