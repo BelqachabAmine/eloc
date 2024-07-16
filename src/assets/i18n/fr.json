@@ -47,7 +47,15 @@
     "describtionend":"Vous ne pouvez terminer votre trajet que dans l'aire de service. Dans l'application, cette zone est marquée en vert clair. Garez correctement le cyclomoteur électrique à un endroit désigné et appuyez sur « Fin du trajet ».",
     "whereRide":"Où rouler et se garer",
     "zoneelocfree":"Avec E-LOC, vous pouvez conduire et vous garer presque partout dans la ville. En collaboration avec les villes, nous avons créé des zones pour que la voie publique reste accessible à tous. Respectez toujours les règles de circulation locales. Ci-dessous, vous pouvez en savoir plus sur ces zones et lieux.",
-    "bientotDsipo":"Bientôt disponible"
+    "bientotDsipo":"Bientôt disponible",
+    "servicearea":"Zone de service",
+    "garderscooter":"Vous pouvez garder le scooter n'importe où dans les zones de service. Assurez-vous de ne pas gêner les autres usagers de la route.",
+    "paszone":"Pas de zone de stationnement",
+    "zonestat":"Les zones où vous n'êtes pas autorisé à vous garer sont indiquées dans l'application par un carré rouge. Ce sont généralement des rues commerçantes très fréquentées.",
+    "znservice":"En dehors de la zone de service",
+    "youcandrive":"Vous pouvez conduire en dehors de la zone de service, mais vous ne pouvez pas terminer la location ici. Un stationnement temporaire est possible, cela coûte à partir de 15 DH la minute.",
+    "reduction":"Zone de réduction",
+    "reductioontext":"Voyez-vous une zone violette ? Alors tu as de la chance ! Si vous commencez ou terminez la location ici, vous bénéficierez d'une réduction sur votre trajet."
 
 }
 

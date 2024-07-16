@@ -47,6 +47,14 @@
     "describtionend":"You only can end your ride in the service area. In the app this area is marked light green. Park the e-moped properly at a designated location and press ‘End ride’.",
     "whereRide":"Where to ride and park",
     "zoneelocfree":"With E-LOC you can drive and park almost anywhere in the city. Together with cities, we have created zones to keep the public road accessible to everyone. Always obey local traffic rules. Below you can read more about these zones and places.",
-    "bientotDsipo":"Coming soon"
+    "bientotDsipo":"Coming soon",
+    "Service area":"Zone de service",
+    "garderscooter":"You can park the e-moped anywhere within the service area’s. Make sure that you don’t cause any inconvenience to other road users.",
+    "paszone":"No parking zone",
+    "zonestat":"Areas where you aren't allowed to park are indicated in the app with a red square. These are usually busy shopping streets.",
+    "znservice":"Outside the service area",
+    "youcandrive":"You can drive outside the service area, but you can’t end the rental here. Temporary parking is possible, this costs from 15 DH per minute.",
+    "reduction":"Discount area",
+    "reductioontext":"Do you see a purple area? Then you are lucky! If you start or end the rental here, you will receive a discount on your ride."
 
 }
