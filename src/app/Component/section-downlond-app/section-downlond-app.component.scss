@@ -58,30 +58,28 @@
 	justify-content: center;
 	align-items :center;
 	flex-direction :column;
-    margin-bottom: -6.5%;
+    margin-bottom: -3.5%;
 }
 
 @media (max-width: 1700px) {
     .main-title{
-        margin-bottom: -6%;
     }
 }
 
 @media (max-width: 1480px) {
     .main-title{
-        margin-bottom: -5.5%;
     }
 }
 
 @media (max-width: 1330px) {
     .main-title{
-        margin-bottom: -5%;
+        margin-bottom: 0.5%;
     }
 }
 
 @media (max-width: 970px) {
     .main-title{
-        margin-bottom: -4.5%;
+        margin-bottom: 0.5%;
     }
 }
 

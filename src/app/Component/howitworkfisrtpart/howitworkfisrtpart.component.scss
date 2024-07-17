@@ -269,4 +269,42 @@ height: 3.375rem;
     font-family: Urban Grotesk ReBo, sans-serif !important;
     font-weight: 700 !important;
 }
-//
+
+@media (max-width: 1230px){
+    .fromhere {
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+    }
+
+    .stylediualmerd{
+        width: 1000px !important;
+        margin-left: 30px !important;
+    }
+    
+}
+
+@media (max-width: 11148px){
+    .stylediualmerd{
+        width: 897px !important;
+        margin-left: -86px !important;
+    }
+    
+}
+
+@media (max-width: 778px) {
+    .col-sm-12 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+    .stylediualmerd{
+        width: 453px !important;
+        margin-left: 0px !important;
+    }
+}
+
+@media (min-width: 1230px){
+    .stylediualmerd{
+        width: 1220px !important;
+        margin-left: -68px !important;
+    }
+}
