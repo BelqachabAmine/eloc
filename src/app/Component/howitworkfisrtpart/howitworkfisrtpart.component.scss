@@ -105,7 +105,6 @@ figure.object-contain img {
     font-weight: 500;
     line-height: 1.75rem;
     -webkit-font-smoothing: antialiased;
-    padding-top: 5%;
 }
 
 .o-cards-vertical{
@@ -307,4 +306,56 @@ height: 3.375rem;
         width: 1220px !important;
         margin-left: -68px !important;
     }
+}
+
+
+/////////////////////////////////////////// section video
+.embed-container figure .overlay {
+    position: absolute;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.embed-container figure {
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.embed-container figure .overlay, .embed-container figure .overlay .play-button {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.embed-container figure .overlay .play-button {
+    padding: 1rem;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, .65);
+}
+
+.embed-container figure .overlay .play-button i {
+    color: #81bb27 !important;
+    font-size: 2rem !important;
+}
+
+.section-boxx {
+    background-color: #fcf6ea;
+}
+
+
+.section-boxx {
+    margin-top: 2rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    border-radius: 20px;
+    max-width: 1800px;
 }
