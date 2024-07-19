@@ -131,7 +131,7 @@ figure.object-contain img {
 }
 
 h2{
-    font-size: 2.4rem !important;
+    font-size: 2.2rem !important;
     font-weight: 700;
     line-height: 1.25;
     font-family: Urban Grotesk ReBo, sans-serif;
@@ -358,4 +358,25 @@ height: 3.375rem;
     padding-bottom: 6rem;
     border-radius: 20px;
     max-width: 1800px;
+}
+
+////////////////////////////////////////////////////////
+
+.proprestylebtn{
+    color: #fff !important;
+    background-color: #c9520a !important;
+    border-color: #c9520a !important;
+    cursor: pointer !important;
+    height: 3.375rem !important;
+    padding: 2px 1.25rem 0 !important;
+    border-radius: 27px !important;
+    font-weight: 700 !important;
+}
+
+.subtitle {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: .8rem !important;
+    font-weight: 700;
+    line-height: 1.2;
 }
