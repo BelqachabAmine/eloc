@@ -63,6 +63,17 @@
     "payy":"Pay only for the time ",
     "useit":"you use it ",
     "pacakge":"With E-LOC you only pay for the time that you use an scooter. Pay per minute or choose a discount package. ",
-    "learnemoore":"Learn more about our prices"
+    "learnemoore":"Learn more about our prices",
 
+    "paymint":"Per minute",
+    "payminut":"Pay per driven minute",
+    "forfaitbasic":"GO Basic package",
+    "detailbasic":"Get 75 prepaid driving minutes for €19.95",
+    "forfaitbig":"GO Big package",
+    "detailbig":"Get 200 prepaid driving minutes for €49.95",
+    "forfaitcrazy":"GO Crazy package",
+    "detailcrazy":"Get 425 prepaid driving minutes for €99.95"
+
+      
+    
 }
