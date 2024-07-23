@@ -64,7 +64,6 @@
     "useit":"le temps d’utilisation ",
     "pacakge":"Avec E-LOC, vous ne payez que pour le temps d’utilisation d’un scooter. Payez à la minute ou choisissez un forfait à prix réduit ",
     "learnemoore":"En savoir plus sur nos prix",
-
     "paymint":"Par minute",
     "payminut":"Payez à la minute",
     "forfaitbasic":"Forfait GO Basic  ",
@@ -72,7 +71,11 @@
     "forfaitbig":"Forfait GO Big  ",
     "detailbig":"Obtenez 200 minutes de conduite prépayées pour 49,95 €.",
     "forfaitcrazy":"Forfait Go Crazy",
-    "detailcrazy":"Obtenez 425 minutes de conduite prépayées pour 99,95 €."
+    "detailcrazy":"Obtenez 425 minutes de conduite prépayées pour 99,95 €.",
+    "app":"L'APP",
+    "inscrir":"Inscrivez-vous dès",
+    "today":"aujourd’hui",
+    "dcvreloc":"Découvrez par vous-même si E-LOC vous convient. Trouvez un scooter et commencez votre voyage."
 
 }
 

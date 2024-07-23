@@ -388,3 +388,33 @@ height: 3.375rem;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
+/////////////////////////////////////////////////////////////////////
+.section-boxxx {
+    margin-top: 2rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color: #edceab;
+}
+
+
+@media (max-width: 991px){
+    .icii{
+        padding-top: 0% !important;
+    }
+}
+
+///////////////////////////////////////////////////////////////////
+.ourstylecolaps{
+    width: 99%;
+    min-height: 4rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-radius: .5rem;
+    background-color: #fcf6ea !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.ourbtn :hover{
+    background-color: #EDCEAB !important;
+}
