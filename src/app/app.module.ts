@@ -20,6 +20,7 @@ import { FooterSectionComponent } from './Component/footer-section/footer-sectio
 import { HowitworkComponent } from './Component/how It Work/howitwork/howitwork.component';
 import { HowitworkfisrtpartComponent } from './Component/howitworkfisrtpart/howitworkfisrtpart.component';
 import { CustomloaderComponent } from './Component/customloader/customloader.component';
+import { LocationComponent } from './Component/location/location.component';
 
 export function httpLoaderFactory (http:HttpClient){
   return new TranslateHttpLoader(http);
@@ -38,7 +39,8 @@ export function httpLoaderFactory (http:HttpClient){
     FooterSectionComponent,
     HowitworkComponent,
     HowitworkfisrtpartComponent,
-    CustomloaderComponent
+    CustomloaderComponent,
+    LocationComponent
   ],
   imports: [
     BrowserModule,

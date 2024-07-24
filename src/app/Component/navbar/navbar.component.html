@@ -1,39 +1,4 @@
-<!-- navbar.component.html 
-<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-    <div class="container">
-    <a class="navbar-brand" href="#">E-LOC</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item dropdown" style="padding-top: 2.3%;">
-          <a class="nav-link dropdown-toggle stylebold" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            {{'Ville' | translate}}
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="#">Paris</a>
-            <a class="dropdown-item" href="#">Lyon</a>
-          </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link stylebold" style="padding-top: 10%;"  href="#"> {{'Commcamarche' | translate}}</a>
-        </li>
-        <li class="nav-item">
-          <a class="btn btn-primary stylebold" href="#">{{'Tele app' | translate}}</a>
-        </li>
-        <li class="nav-item" style="padding-top: 3.3%;">
-          <select aria-labelledby="languageDropdown" class="stylebold" (change)="Changelang($event)" style="border: none;">
-            <option [selected]="lang === 'fr'" value="fr">FR</option>
-            <option [selected]="lang === 'en'" value="en">EN</option>
-          </select>
-        </li>
-      </ul>
-    </div>
-    </div>
-  </nav>
-  -->
-  <nav>
+ <nav>
     <div style="background-color: white; width: 100%;">
     <div class="wrapper fixed-top">
       <div class="logo" style="width: 35%;">
@@ -60,6 +25,7 @@
           </ul>
         </li>
         <li><a routerLink="/howitwork" class="stylebold">{{'Commcamarche' | translate}} ?</a></li>
+        <li><a routerLink="/noustrouve" class="stylebold">{{'ounoutrouve' | translate}} ?</a></li>
         <li><a href="#" class="btntelechargi " style="color: white; ">{{'Tele app' | translate}}</a></li>
         <li>
         <li>
