@@ -75,8 +75,20 @@
     "app":"L'APP",
     "inscrir":"Inscrivez-vous dès",
     "today":"aujourd’hui",
-    "dcvreloc":"Découvrez par vous-même si E-LOC vous convient. Trouvez un scooter et commencez votre voyage."
-
+    "dcvreloc":"Découvrez par vous-même si E-LOC vous convient. Trouvez un scooter et commencez votre voyage.",
+    "askqu":"FOIRE AUX QUESTIONS",
+    "whatyneed":"Tout ce que vous voulez savoir",
+    "q1":"Combien coûte un trajet?",
+    "r1":"Les prix commencent à 0,24 € par minute et chez E-LOC, vous ne payez que lorsque vous utilisez le e-scooter. Pour ce prix, une assurance et une batterie entièrement chargée sont incluses. Vous payez votre trajet, nous faisons le reste! Consultez cette page pour connaître tous nos tarifs.",
+    "q2":"Puis-je payer avec une carte de crédit et Bancontact?",
+    "r2":"Oui, les deux modes de paiement sont acceptés. Toutefois, avec Bancontact, il n’est possible d’acheter que des forfaits à prix réduit. Merci de consulter notre page de tarifs pour plus de détails.",
+    "q3":"Où puis-je trouver un e-scooter disponible et comment puis-je le réserver?",
+    "r3":"Tous les e-scooters disponibles peuvent être trouvés sur la carte dans l’application E-LOC et bien sûr vous choisissez le e-scooter le plus proche. Cliquez sur le bouton vert “Réserver” et vous aurez alors 15 minutes gratuites pour vous rendre au scooter.",
+    "q4":"Où puis-je conduire?",
+    "r4":"Partout où vous avez le droit d’aller avec un cyclomoteur normal! Vous pouvez donc aller aussi bien à l’intérieur qu’à l’extérieur de notre zone de service. Mais n’oubliez pas de vous tenir au courant de nos zones de service. – La zone de service verte : Vous pouvez y circuler et terminer votre trajet – La zone de service rouge : Vous pouvez conduire jusqu’ici mais vous ne pouvez pas terminer votre trajet dans cette zone – En dehors de la zone de service : Vous ne pouvez pas terminer votre trajet, mais un stationnement temporaire est possible.",
+    "q5":"Dois-je assurer le e-scooter?",
+    "r5":"Tous les e-scooters sont couverts par la responsabilité civile, avec une franchise de 500,00 €. Nos forfaits professionnels mensuels sont entièrement exemptés de franchise."
+    
 }
 
 

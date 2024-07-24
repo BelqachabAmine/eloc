@@ -64,7 +64,6 @@
     "useit":"you use it ",
     "pacakge":"With E-LOC you only pay for the time that you use an scooter. Pay per minute or choose a discount package. ",
     "learnemoore":"Learn more about our prices",
-
     "paymint":"Per minute",
     "payminut":"Pay per driven minute",
     "forfaitbasic":"GO Basic package",
@@ -76,6 +75,19 @@
     "app":"THE APP",
     "inscrir":"Sign up",
     "today":"today",
-    "dcvreloc":"Find out for yourself whether GO Sharing is a good fit for you. Find a vehicle and start your journey."
+    "dcvreloc":"Find out for yourself whether GO Sharing is a good fit for you. Find a vehicle and start your journey.",
+    "askqu":"FREQUENTLY ASKED QUESTIONS",
+    "whatyneed":"Everything you need to know",
+    "q1":"Do I have to insure the e-scooter?",
+    "r1":"All e-scooters are covered by third party liability, with a deductible of € 500. Our monthly business packages are completely free of deductible.",
+    "q2":"Where can I drive?",
+    "r2":"Wherever you are allowed to go with a normal moped! So you can go both inside and outside our service area. But, stay in notice of our service areas.   – The green service area: You can drive here as well as end your ride – The red service area: You can drive here but you can’t end your ride in this area – Outside the service area: You cannot end your ride, but temporarily parking is possible.",
+    "q3":"Where can I find an available e-scooter and how can I reserve it?",
+    "r3":"All available e-scooters can be found on the map in the E-LOC app and of course you choose the nearest e-scooter. Click on the green button ‘Reserve’ and you will then have 15 free minutes to walk to the scooter.",
+    "q4":"Can I pay with both a Credit Card and Bancontact?",
+    "r4":"Yes, both are possible. But, the payment methods are linked to different usage of driving minutes.",
+    "q5":"How much does a ride cost?",
+    "r5":"Prices start at €0.24 per minute and at E-LOC you’ll only pay while using the e-scooter. Our prices include maintenance, insurance and the battery. You pay for your ride, we do the rest!"
+    
   
 }

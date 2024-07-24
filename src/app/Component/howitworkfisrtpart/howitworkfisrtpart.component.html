@@ -387,7 +387,7 @@
                 </div>
                 <div class="col-xs-12 col-lg-6 pt-5 pt-lg-0 order-lg-first">  
                     <figure class="object-contain position-relative">
-                        <img class="mh-400  mh-700" alt="" src="../../../assets/telemoto.png" >
+                        <img class="mh-400  mh-700" alt="" src="../../../assets/999.png" >
                     </figure>
                 </div>
             </div>
@@ -398,69 +398,96 @@
 
 <!-- daba ana hnaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->
 
-<div class="container-fluid section-box">
+<div class="container-fluid section-box" style="margin-top: 5%; margin-bottom: 5%;">
     <div class="container">
       <div class="row mb-5">
         <div class="col-12 text-center">
-          <h2 class="subtitle text-primary">Frequently asked questions</h2>
-          <h2>Everything you need to know</h2>
+          <h2 class="subtitle text-primary">{{'askqu' | translate}}</h2>
+          <h2>{{'whatyneed' | translate}}</h2>
       </div>
     </div>
     <div class="row">
-        <div class="col-xs-12 col-lg-10 offset-lg-1">
+        <div class="col-xs-12 col-lg-10 offset-lg-1" style="margin-bottom: 1.5%;">
             <div class="ourbtn" style="background-color: #fcf6ea !important; width: 100%;line-height: 1.75rem;" >
                 <button class="btn btn-primary ourstylecolaps" type="button" (click)="basicCollapse.toggle()" [attr.aria-expanded]="!basicCollapse.collapsed" aria-controls="collapseExample">
-                    <strong class="font-size-large pr-3" style="color: #000; float: left; font-size: 1.125rem !important; line-height: 1.75rem;">How do I start the e-scooter?</strong>
+                    <strong class="font-size-large pr-3" style="color: #000; float: left; font-size: 1.125rem !important; line-height: 1.75rem;">
+                        {{'q1' | translate}}
+                    </strong>
                     <i class="fa-solid fa-plus fa-2x" style="    color:  #81bb27 !important;; float: right; line-height: 1.75rem;"></i>
                 </button>
                 <div class="my-card-body">
-                    <div class="" id="collapseExample" style="color: #000;padding: 1% 3% !important;" mdbCollapse #basicCollapse="mdbCollapse">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                        squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                        sapiente ea proident.
+                    <div class="teststylee" id="collapseExample" style="color: #000;padding: 1% 3% !important;" mdbCollapse #basicCollapse="mdbCollapse">
+                        {{'r1' | translate}}
                     </div>
                 </div>
             </div>
-            <div>
-                <button class="btn btn-primary" style="color: #000;" type="button" (click)="basicCollapse2.toggle()" [attr.aria-expanded]="!basicCollapse2.collapsed" aria-controls="collapseExample">
-                    test 2 
-                </button>
-                <div class="" id="collapseExample" style="color: #000;" mdbCollapse #basicCollapse2="mdbCollapse">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                    sapiente ea proident.
-                </div>
-            </div>
-            <div>
-                <button class="btn btn-primary" style="color: #000;" type="button" (click)="basicCollapse3.toggle()" [attr.aria-expanded]="!basicCollapse3.collapsed" aria-controls="collapseExample">
-                    test 3 
-                </button>
-                <div class="" id="collapseExample" style="color: #000;" mdbCollapse #basicCollapse3="mdbCollapse">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                    sapiente ea proident.
-                </div>
-            </div>
-
         </div>
-    </div>
 
+        <div class="col-xs-12 col-lg-10 offset-lg-1" style="margin-bottom: 1.5%;">
+            <div class="ourbtn" style="background-color: #fcf6ea !important; width: 100%;line-height: 1.75rem;" >
+                <button class="btn btn-primary ourstylecolaps" type="button" (click)="basicCollapse1.toggle()" [attr.aria-expanded]="!basicCollapse1.collapsed" aria-controls="collapseExample">
+                    <strong class="font-size-large pr-3" style="color: #000; float: left; font-size: 1.125rem !important; line-height: 1.75rem;">
+                        {{'q2' | translate}}
+                    </strong>
+                    <i class="fa-solid fa-plus fa-2x" style="    color:  #81bb27 !important;; float: right; line-height: 1.75rem;"></i>
+                </button>
+                <div class="my-card-body">
+                    <div class="teststylee" id="collapseExample" style="color: #000;padding: 1% 3% !important;" mdbCollapse #basicCollapse1="mdbCollapse">
+                        {{'r2' | translate}}
+                    </div>
+                </div>
+            </div>
+        </div>
 
-    <!-- Buttons trigger collapse -->
+        <div class="col-xs-12 col-lg-10 offset-lg-1" style="margin-bottom: 1.5%;">
+            <div class="ourbtn" style="background-color: #fcf6ea !important; width: 100%;line-height: 1.75rem;" >
+                <button class="btn btn-primary ourstylecolaps" type="button" (click)="basicCollapse2.toggle()" [attr.aria-expanded]="!basicCollapse2.collapsed" aria-controls="collapseExample">
+                    <strong class="font-size-large pr-3" style="color: #000; float: left; font-size: 1.125rem !important; line-height: 1.75rem;">
+                        {{'q3' | translate}}
+                    </strong>
+                    <i class="fa-solid fa-plus fa-2x" style="    color:  #81bb27 !important;; float: right; line-height: 1.75rem;"></i>
+                </button>
+                <div class="my-card-body">
+                    <div class="teststylee" id="collapseExample" style="color: #000;padding: 1% 3% !important;" mdbCollapse #basicCollapse2="mdbCollapse">
+                        {{'r3' | translate}}
+                    </div>
+                </div>
+            </div>
+        </div>
 
+        <div class="col-xs-12 col-lg-10 offset-lg-1" style="margin-bottom: 1.5%;">
+            <div class="ourbtn" style="background-color: #fcf6ea !important; width: 100%;line-height: 1.75rem;" >
+                <button class="btn btn-primary ourstylecolaps" type="button" (click)="basicCollapse3.toggle()" [attr.aria-expanded]="!basicCollapse3.collapsed" aria-controls="collapseExample">
+                    <strong class="font-size-large pr-3" style="color: #000; float: left; font-size: 1.125rem !important; line-height: 1.75rem;">
+                        {{'q4' | translate}}
+                    </strong>
+                    <i class="fa-solid fa-plus fa-2x" style="    color:  #81bb27 !important;; float: right; line-height: 1.75rem;"></i>
+                </button>
+                <div class="my-card-body">
+                    <div class="teststylee" id="collapseExample" style="color: #000;padding: 1% 3% !important;" mdbCollapse #basicCollapse3="mdbCollapse">
+                        {{'r4' | translate}}m
+                    </div>
+                </div>
+            </div>
+        </div>
 
-<!--Collapsed content-->
-
-
-
-<!--
-    <div class="row mt-5">
-      <div class="col-12 text-center">
-                  <div class="vehicle-archive-link">
-            <a class="dark-link" href="https://be.go-sharing.com/en/faq/">Find more frequently asked questions Find more frequently asked questions<i class="i-arrow-line-right text-secondary ml-1"></i></a>
-          </div>
-                  </div>
-      </div>
--->    
+        <div class="col-xs-12 col-lg-10 offset-lg-1" style="margin-bottom: 1.5%;">
+            <div class="ourbtn" style="background-color: #fcf6ea !important; width: 100%;line-height: 1.75rem;" >
+                <button class="btn btn-primary ourstylecolaps" type="button" (click)="basicCollapse4.toggle()" [attr.aria-expanded]="!basicCollapse4.collapsed" aria-controls="collapseExample">
+                    <strong class="font-size-large pr-3" style="color: #000; float: left; font-size: 1.125rem !important; line-height: 1.75rem;">
+                        {{'q5' | translate}}
+                    </strong>
+                    <i class="fa-solid fa-plus fa-2x" style="    color:  #81bb27 !important;; float: right; line-height: 1.75rem;"></i>
+                </button>
+                <div class="my-card-body">
+                    <div class="teststylee" id="collapseExample" style="color: #000;padding: 1% 3% !important;" mdbCollapse #basicCollapse4="mdbCollapse">
+                        {{'r5' | translate}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>   
     </div>
   </div>
+
+  <app-footer-section></app-footer-section>
