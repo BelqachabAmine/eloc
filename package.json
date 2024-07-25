@@ -9,7 +9,6 @@
     "test": "ng test",
     "build:ssr": "ng build && ng run eloc:server",
     "serve:ssr": "node dist/eloc/server/main.js"
-
   },
   "private": true,
   "dependencies": {

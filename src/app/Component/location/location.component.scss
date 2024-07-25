@@ -23,7 +23,6 @@
 .container-fluid.has-absolute-col .absolute-col, .container.has-absolute-col .absolute-col, .has-absolute-col.container-lg .absolute-col, .has-absolute-col.container-md .absolute-col, .has-absolute-col.container-sm .absolute-col, .has-absolute-col.container-xl .absolute-col{
     position: absolute;
     top: 0;
-    height: 100%;
     pointer-events: none;
 }
 
@@ -73,7 +72,7 @@
 }
 
 .o-header-location .row .text-col {
-    padding: 0 3rem 0 5rem;
+    padding: 0 0rem 6rem 9rem;
 }
 
 .row .text-col {
@@ -146,3 +145,30 @@
 .position-relative {
     position: relative !important;
 }
+
+.imgsize , .imgsize2{
+    margin-top: 6%;
+    width: 80%;
+  }
+
+  @media (max-width: 986px) {
+    .o-header-location .row .text-col {
+        padding: 0 3rem 0rem 3rem;
+    }
+    .imgsize , .imgsize2{
+        margin-top: 0% !important;
+        width: 50% !important;
+      }
+}
+
+@media (max-width: 767px) {
+    .imgsize , .imgsize2{
+        margin-top: 0% !important;
+        width: 40% !important;
+      }
+
+      .row .text-col .content {
+        margin: 0rem 0 0;
+    }
+}
+
