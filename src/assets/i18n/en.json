@@ -88,7 +88,14 @@
     "r4":"Yes, both are possible. But, the payment methods are linked to different usage of driving minutes.",
     "q5":"How much does a ride cost?",
     "r5":"Prices start at €0.24 per minute and at E-LOC you’ll only pay while using the e-scooter. Our prices include maintenance, insurance and the battery. You pay for your ride, we do the rest!",
-    "ounoutrouve":"Locations"
-    
+    "ounoutrouve":"Locations",
+    "fineloc":"Find a E-LOC",
+    "foruu":"for your journey",
+    "exxplor":"Explore all the locations where E-LOC is located and use our shared vehicles.",
+
+    "eloclooc":"E-locations",
+    "overcites":"Overview Cities",
+    "bladna":"Morocco",
+    "keech":"Marrakech"
   
 }
