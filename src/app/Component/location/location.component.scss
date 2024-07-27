@@ -229,3 +229,66 @@
 figure {
     margin: 6px 15px 0px 0px !important;
 }
+
+.locations {
+    width: 100%;
+    table-layout: fixed;
+}
+
+@media (min-width: 1200px) {
+    .o-locations-archive .location-row .col-xl-4:first-child .locations .location {
+        margin-right: 4rem;
+        margin-left: 2rem;
+    }
+}
+
+
+.o-locations-archive .location-row .col-xl-4 .locations .location {
+    margin-right: 0;
+    margin-left: 2rem;
+}
+
+.locations .location {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.locations .location__col {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: .5rem 0;
+}
+
+.locations .location__icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: .5rem;
+}
+
+.locations .location__icons__icon {
+    padding: .25rem;
+    border-radius: 50%;
+    background-color: #fff;
+    -webkit-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, .15);
+    box-shadow: 0 2px 4px 1px rgba(0, 0, 0, .15);
+}
+
+.locations .location__icons__icon svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+.locations .location__icons svg path {
+    fill: #81bb27;
+}
