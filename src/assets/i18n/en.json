@@ -101,6 +101,12 @@
     "addvile":"Ajouter ma ville",
 
     "dicover":"Discover the app",
-    "onneapp":"One app, thousands of electric sharing vehicles. Discover all the clever features and get the most out of your trip."
+    "onneapp":"One app, thousands of electric sharing vehicles. Discover all the clever features and get the most out of your trip.",
+    "q11":"Is there a min or max number of minutes/kilometers that I can drive?",
+    "r11":"No, there is not. You can drive as long as you want, because you are paying per minute. Of course, pay attention to the capacity of the battery. Make sure you do not drive up to a 0% battery, but pick up another scooter nearby on which you can continue your journey. E-LOC takes care of charging the batteries in the service area.",
+    "q22":"Where can I drive?",
+    "r22":"Wherever you are allowed to go with a normal moped! So you can go both inside and outside our service area. But, stay in notice of our service areas.   – The green service area: You can drive here as well as end your ride – The red service area: You can drive here but you can’t end your ride in this area – Outside the service area: You cannot end your ride, but temporarily parking is possible.",
+    "q33":"How far can I go with a full battery?",
+    "r33":"The battery can reach more than 70 kilometers! But pay attention, the battery drains faster when you ride the e-scooter with two people. Is your battery almost empty? Make sure you are able to reach your destination with this small amount. Switch to another e-scooter in the area. We are charging e-scooters every day for your trip!"
   
 }

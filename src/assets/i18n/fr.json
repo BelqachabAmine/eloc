@@ -103,7 +103,14 @@
     "conatctnous":"Contactez-nous et nous étudierons la possibilité d’offrir le service E-LOC dans votre ville également.",
     "addvile":"Ajouter ma ville",
     "dicover":"Découvrez l’application",
-    "onneapp":"Une application, des milliers de véhicules électriques. Découvrez toutes les fonctionnalités intelligentes et profitez au maximum de votre voyage."
+    "onneapp":"Une application, des milliers de véhicules électriques. Découvrez toutes les fonctionnalités intelligentes et profitez au maximum de votre voyage.",
+
+    "q11":"Jusqu’où puis-je aller avec une batterie pleine?",
+    "r11":"La batterie peut atteindre plus de 70 kilomètres. Mais attention, la batterie se vide plus vite lorsque vous conduisez le e-scooter à deux. La batterie est presque vide? Assurez-vous que vous êtes capable d’atteindre votre destination avec cette petite quantité. Vous n’y arrivez pas? Passez à un autre e-scooter dans les environs. Nous rechargeons les e-scooters tous les jours pour votre trajet!",
+    "q22":"Puis-je utiliser mon e-scooter en dehors de la zone de service?",
+    "r22":"Oui, vous pouvez utiliser votre e-scooter partout où la législation locale le permet. Attention, vous ne pouvez pas terminer votre voyage en dehors de la zone de service. Le stationnement (temporaire) est bien sûr possible, pendant ce temps vous payez que 0,15 € par minute. Pour clarifier, cela équivaut à 9,00 € par heure de stationnement.",
+    "q33":"Y a-t-il un nombre minimum ou maximum de minutes/kilomètres que je peux conduire?",
+    "r33":"Non, il n’y en a pas. Vous pouvez conduire aussi longtemps que vous le voulez, parce que vous payez à la minute. Cependant, faites attention à la capacité de la batterie. Veuillez ne pas conduire jusqu’à 0% de batterie, mais prenez un autre e-scooter à proximité sur lequel vous pouvez continuer votre trajet. E-LOC s’occupe de recharger les batteries dans la zone de service."
     
 }
 
