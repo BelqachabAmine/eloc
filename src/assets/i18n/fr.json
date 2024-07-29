@@ -92,14 +92,18 @@
     "fineloc":"Trouvez un E-LOC",
     "foruu":"pour votre trajet",
     "exxplor":"Découvrez tous les endroits où vous pouvez utiliser nos véhicules partagés. A proximité ou ailleurs.",
-
     "eloclooc":"EMPLACEMENTS E-LOC",
     "overcites":"Aperçu des villes ",
     "bladna":"Maroc",
     "keech":"Marrakech",
     "tanger":"Tanger",
     "rabat":"Rabat",
-    "casablanca":"Casablanca"
+    "casablanca":"Casablanca",
+    "votreville":"Votre ville ne figure pas sur la liste ?",
+    "conatctnous":"Contactez-nous et nous étudierons la possibilité d’offrir le service E-LOC dans votre ville également.",
+    "addvile":"Ajouter ma ville",
+    "dicover":"Découvrez l’application",
+    "onneapp":"Une application, des milliers de véhicules électriques. Découvrez toutes les fonctionnalités intelligentes et profitez au maximum de votre voyage."
     
 }
 

@@ -92,10 +92,15 @@
     "fineloc":"Find a E-LOC",
     "foruu":"for your journey",
     "exxplor":"Explore all the locations where E-LOC is located and use our shared vehicles.",
-
     "eloclooc":"E-locations",
     "overcites":"Overview Cities",
     "bladna":"Morocco",
-    "keech":"Marrakech"
+    "keech":"Marrakech",
+    "votreville":"Is your city not listed ?",
+    "conatctnous":"Notify us, we will look into the possibility of offering E-LOC in your city.",
+    "addvile":"Ajouter ma ville",
+
+    "dicover":"Discover the app",
+    "onneapp":"One app, thousands of electric sharing vehicles. Discover all the clever features and get the most out of your trip."
   
 }
