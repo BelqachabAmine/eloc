@@ -99,7 +99,6 @@
     "votreville":"Is your city not listed ?",
     "conatctnous":"Notify us, we will look into the possibility of offering E-LOC in your city.",
     "addvile":"Ajouter ma ville",
-
     "dicover":"Discover the app",
     "onneapp":"One app, thousands of electric sharing vehicles. Discover all the clever features and get the most out of your trip.",
     "q11":"Is there a min or max number of minutes/kilometers that I can drive?",
@@ -107,6 +106,26 @@
     "q22":"Where can I drive?",
     "r22":"Wherever you are allowed to go with a normal moped! So you can go both inside and outside our service area. But, stay in notice of our service areas.   – The green service area: You can drive here as well as end your ride – The red service area: You can drive here but you can’t end your ride in this area – Outside the service area: You cannot end your ride, but temporarily parking is possible.",
     "q33":"How far can I go with a full battery?",
-    "r33":"The battery can reach more than 70 kilometers! But pay attention, the battery drains faster when you ride the e-scooter with two people. Is your battery almost empty? Make sure you are able to reach your destination with this small amount. Switch to another e-scooter in the area. We are charging e-scooters every day for your trip!"
+    "r33":"The battery can reach more than 70 kilometers! But pay attention, the battery drains faster when you ride the e-scooter with two people. Is your battery almost empty? Make sure you are able to reach your destination with this small amount. Switch to another e-scooter in the area. We are charging e-scooters every day for your trip!",
+    "heeelp":"Help",
+    "centredaide":"GO to our helpcenter",
+    "questionapropodenous":"Do you have a question about E-LOC ? Check our frequently asked questions. If you can’t find your answer, please don’t hesitate to contact us.",
+    "Support":"Support",
+    "suportansewr":"Do you have questions about our app, product or service? Our customer support team is here to help you.  ",
+    "envoicouri":"Send us an email",
+    "midia":"Media",
+    "ansewrmidia":"Do you want to know more about our story or speak with a spokesman? Let us know.",
+    "contact":"Contact by phone",
+    "ansewrcontact":"You can reach us from 09:00 – 23:00. For emergencies you can reach us 24/7. ",
+    "apeelcontact":"Call +212 6 62 22 74 66",
+    "nuisans":"Nuisance",
+    "ansewrnuisans":"Are you experiencing nuisance from one of our vehicles? We’d like to solve this with you as soon as possible.",
+    "Address":"Address ",
+    "adresansewer":"Marrakech"
+
+      
+   
+
+
   
 }

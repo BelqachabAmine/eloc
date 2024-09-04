@@ -21,6 +21,7 @@ import { HowitworkComponent } from './Component/how It Work/howitwork/howitwork.
 import { HowitworkfisrtpartComponent } from './Component/howitworkfisrtpart/howitworkfisrtpart.component';
 import { CustomloaderComponent } from './Component/customloader/customloader.component';
 import { LocationComponent } from './Component/location/location.component';
+import { HellpComponent } from './Component/hellp/hellp.component';
 
 export function httpLoaderFactory (http:HttpClient){
   return new TranslateHttpLoader(http);
@@ -40,7 +41,8 @@ export function httpLoaderFactory (http:HttpClient){
     HowitworkComponent,
     HowitworkfisrtpartComponent,
     CustomloaderComponent,
-    LocationComponent
+    LocationComponent,
+    HellpComponent
   ],
   imports: [
     BrowserModule,

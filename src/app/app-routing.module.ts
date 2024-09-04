@@ -2,7 +2,8 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import {HomeComponent} from '../app/Component/home/home.component';
 import {HowitworkComponent} from '../app/Component/how It Work/howitwork/howitwork.component';
-import {LocationComponent} from '../app/Component/location/location.component'
+import {LocationComponent} from '../app/Component/location/location.component';
+import {HellpComponent} from '../app/Component/hellp/hellp.component'
 
 const routes: Routes = [
   {
@@ -21,6 +22,10 @@ const routes: Routes = [
   { 
     path: 'noustrouve',
     component: LocationComponent 
+  },
+  { 
+    path: 'help',
+    component: HellpComponent
   }
 ]; 
 
