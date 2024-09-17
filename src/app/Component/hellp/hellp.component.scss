@@ -2,6 +2,12 @@
     background-color: #fff;
 }
 
+app-footer-section{
+    padding-top: 6%;
+    display: block;
+    background-color: black;
+  }
+
 .o-header .section-box {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -142,4 +148,8 @@ h5, h5 i {
 
 .dark-link:hover{
     color: #C9520A;
+}
+
+.text-primary{
+    color: #81bb27 !important;
 }
